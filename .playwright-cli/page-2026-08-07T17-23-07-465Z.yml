@@ -1,0 +1,405 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation "Navigare principală" [ref=e3]:
+      - link "Samir One Logistic - început" [ref=e4] [cursor=pointer]:
+        - /url: "#acasa"
+        - generic [ref=e5]: S
+        - generic [ref=e6]:
+          - text: SAMIR ONE
+          - generic [ref=e7]: LOGISTIC
+      - generic [ref=e8]:
+        - link "Idei" [ref=e9] [cursor=pointer]:
+          - /url: "#idei"
+        - link "Comenzi" [ref=e10] [cursor=pointer]:
+          - /url: "#sistem"
+        - link "Curse" [ref=e11] [cursor=pointer]:
+          - /url: "#control"
+        - link "Profit" [ref=e12] [cursor=pointer]:
+          - /url: "#profit"
+        - link "Client" [ref=e13] [cursor=pointer]:
+          - /url: "#client"
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - img "Camion modern pe traseu digital" [ref=e16]
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: SAMIR ONE LOGISTIC
+          - heading [level=1] [ref=e20]:
+            - text: Digitalizarea șiautomatizarea
+            - strong [ref=e21]: operațiunilor de transport.
+          - paragraph [ref=e22]: Un sistem custom pentru gestionarea comenzilor, curselor, documentelor, costurilor și profitabilității.
+          - generic [ref=e23]:
+            - generic [ref=e24]: COMENZI
+            - generic [ref=e25]: CURSE
+            - generic [ref=e26]: ȘOFERI
+            - generic [ref=e27]: DOCUMENTE
+            - generic [ref=e28]: COSTURI
+            - generic [ref=e29]: PROFIT
+        - generic [ref=e30]: S
+      - generic [ref=e35]: Derulează pentru concept
+    - generic [ref=e37]:
+      - generic [ref=e38]: OVERVIEW
+      - heading [level=2] [ref=e39]:
+        - text: Zone de
+        - emphasis [ref=e40]: digitalizare.
+      - paragraph [ref=e41]: O platformă unică pentru operațiuni, documente și analiză financiară.
+      - generic [ref=e42]:
+        - article [ref=e43]:
+          - generic [ref=e44]: "01"
+          - heading "Gestiunea comenzilor" [level=3] [ref=e45]
+          - paragraph [ref=e46]: Centralizarea comenzilor din Cargus, Auto Total și alte surse.
+        - article [ref=e47]:
+          - generic [ref=e48]: "02"
+          - heading "Managementul curselor" [level=3] [ref=e49]
+          - paragraph [ref=e50]: Vizualizarea curselor, șoferilor, camioanelor, statusului și ETA.
+        - article [ref=e51]:
+          - generic [ref=e52]: "03"
+          - heading "Documente și CMR" [level=3] [ref=e53]
+          - paragraph [ref=e54]: Încărcare, asociere și arhivare digitală a documentelor.
+        - article [ref=e55]:
+          - generic [ref=e56]: "04"
+          - heading "Costuri și profitabilitate" [level=3] [ref=e57]
+          - paragraph [ref=e58]: Calcul și analiză pe cursă, rută, camion și sursa comenzii.
+      - generic [ref=e59]:
+        - generic [ref=e60]: →
+        - generic [ref=e61]: Modulele pot fi implementate treptat, în funcție de priorități și sistemele disponibile.
+    - generic [ref=e63]:
+      - generic [ref=e64]: 1. COMENZI
+      - heading [level=2] [ref=e65]:
+        - text: Centralizarea
+        - emphasis [ref=e66]: comenzilor.
+      - paragraph [ref=e67]: Sistem unic pentru preluarea și gestionarea comenzilor din Cargus, Auto Total și alte surse.
+      - generic [ref=e68]:
+        - img "Cargus" [ref=e70]
+        - img "Auto Total" [ref=e72]
+        - generic [ref=e74]:
+          - generic [ref=e75]: +
+          - text: Comenzi directe
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]: SAMIR CONTROL CENTER
+          - generic [ref=e83]: ● CONCEPT
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - text: "COMANDĂ #SO-1842"
+            - generic [ref=e86]: Craiova → București
+          - generic [ref=e87]:
+            - text: ȘOFER
+            - generic [ref=e88]: Ion Popescu
+          - generic [ref=e89]:
+            - text: STATUS
+            - generic [ref=e90]: În tranzit
+          - generic [ref=e91]:
+            - text: CMR
+            - generic [ref=e92]: Așteptat
+        - generic [ref=e93]:
+          - generic [ref=e94]: Comenzi
+          - generic [ref=e95]: Curse
+          - generic [ref=e96]: Tracking
+          - generic [ref=e97]: Documente
+          - generic [ref=e98]: Costuri
+      - paragraph [ref=e99]:
+        - strong [ref=e100]: Integrarea poate fi automată sau semi-automată,
+        - text: în funcție de sistemele disponibile.
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: ✓
+          - text: Evidență într-un singur loc
+        - generic [ref=e104]:
+          - generic [ref=e105]: ✓
+          - text: Reducerea introducerii manuale
+        - generic [ref=e106]:
+          - generic [ref=e107]: ✓
+          - text: Trasabilitate mai bună a comenzilor
+    - generic [ref=e109]:
+      - generic [ref=e110]: FLUX OPERAȚIONAL
+      - heading [level=2] [ref=e111]:
+        - text: Flux operațional
+        - emphasis [ref=e112]: complet.
+      - paragraph [ref=e113]: De la comandă până la documente și facturare.
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e119]: COMANDĂ
+          - generic [ref=e120]: cursă nouă
+        - generic [ref=e121]:
+          - generic [ref=e125]: ALOCĂ
+          - generic [ref=e126]: șofer + camion
+        - generic [ref=e127]:
+          - generic [ref=e131]: TRANSPORT
+          - generic [ref=e132]: status și poziție
+        - generic [ref=e133]:
+          - generic [ref=e137]: CMR
+          - generic [ref=e138]: document asociat
+        - generic [ref=e139]:
+          - generic [ref=e143]: FACTUREAZĂ
+          - generic [ref=e144]: totul pregătit
+      - generic [ref=e145]:
+        - generic [ref=e146]: COMANDĂ → ALOCARE → TRANSPORT → CMR → FACTURARE
+        - generic [ref=e147]: Fiecare etapă rămâne conectată aceleiași curse.
+      - generic [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e150]: ✓
+          - text: Comandă, cursă și documente conectate
+        - generic [ref=e151]:
+          - generic [ref=e152]: ✓
+          - text: Fiecare pas rămâne trasabil
+        - generic [ref=e153]:
+          - generic [ref=e154]: ✓
+          - text: Informație pregătită pentru facturare
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e158]: DIN TEREN ÎN BIROU
+        - heading [level=2] [ref=e159]:
+          - text: Informația se mișcă odată cu
+          - emphasis [ref=e160]: cursa.
+        - paragraph [ref=e161]: Fiecare actualizare din teren poate ajunge într-un singur flux operațional, pregătit pentru echipa de dispecerat.
+        - generic [ref=e162]:
+          - generic [ref=e163]:
+            - generic [ref=e164]: ✓
+            - text: Statusuri actualizate
+          - generic [ref=e165]:
+            - generic [ref=e166]: ✓
+            - text: Documente asociate cursei
+          - generic [ref=e167]:
+            - generic [ref=e168]: ✓
+            - text: Vizibilitate pentru echipă
+      - complementary [ref=e169]:
+        - generic [ref=e170]:
+          - generic [ref=e171]: "CURSA #SO-1842"
+          - generic [ref=e172]: ÎN TRANZIT
+        - generic [ref=e174]:
+          - generic [ref=e175]: Craiova
+          - generic [ref=e177]: București
+        - generic [ref=e179]:
+          - generic [ref=e180]: Status transmis
+          - generic [ref=e183]: Poziție actualizată
+          - generic [ref=e186]: CMR pregătit
+    - generic [ref=e190]:
+      - generic [ref=e191]: 2. CONTROL CENTER
+      - heading [level=2] [ref=e192]:
+        - text: Gestiunea centralizată a
+        - emphasis [ref=e193]: curselor.
+      - paragraph [ref=e194]: Dashboard operațional pentru monitorizarea tuturor curselor într-un singur ecran.
+      - generic [ref=e195]:
+        - generic [ref=e196]:
+          - generic [ref=e197]:
+            - text: "CURSA #SO-1842"
+            - generic [ref=e198]: Craiova → București
+            - text: OT-XX-XXX • ETA 16:40
+          - img "Hartă stilizată a României cu rute active" [ref=e199]:
+            - generic [ref=e206]: Craiova
+            - generic [ref=e208]: București
+            - generic [ref=e210]: Cluj
+            - generic [ref=e212]: Timișoara
+            - generic [ref=e214]: Iași
+        - complementary [ref=e235]:
+          - heading "12 CURSE ACTIVE" [level=3] [ref=e236]
+          - generic [ref=e237]:
+            - generic [ref=e239]: "7"
+            - generic [ref=e240]: În tranzit
+          - generic [ref=e241]:
+            - generic [ref=e243]: "3"
+            - generic [ref=e244]: La încărcare
+          - generic [ref=e245]:
+            - generic [ref=e247]: "2"
+            - generic [ref=e248]: La descărcare
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - generic [ref=e251]: ✓
+          - text: Vizibilitate operațională
+        - generic [ref=e252]:
+          - generic [ref=e253]: ✓
+          - text: Monitorizare rapidă
+        - generic [ref=e254]:
+          - generic [ref=e255]: ✓
+          - text: Mai puține verificări manuale
+    - generic [ref=e257]:
+      - generic [ref=e258]: 3. APLICAȚIE MOBILĂ
+      - heading [level=2] [ref=e259]:
+        - text: Aplicație mobilă pentru
+        - emphasis [ref=e260]: șoferi.
+      - paragraph [ref=e261]: Actualizarea statusului cursei și transmiterea documentelor direct din teren.
+      - generic [ref=e262]:
+        - generic [ref=e263]:
+          - generic [ref=e264]:
+            - generic [ref=e265]: "CURSA #1842"
+            - generic [ref=e266]: Craiova → București
+          - button "AM AJUNS" [ref=e267] [cursor=pointer]
+          - button "AM ÎNCĂRCAT" [ref=e269] [cursor=pointer]
+          - button "AM PLECAT" [ref=e271] [cursor=pointer]
+          - button "AM LIVRAT" [ref=e273] [cursor=pointer]
+          - button "ÎNCARCĂ CMR" [ref=e275] [cursor=pointer]
+        - generic [ref=e276]:
+          - article [ref=e277]:
+            - generic [ref=e278]: Status actualizat rapid
+            - generic [ref=e279]: Etapele cursei sunt transmise direct din aplicație.
+          - article [ref=e280]:
+            - generic [ref=e281]: Documente din teren
+            - generic [ref=e282]: CMR-ul și alte documente pot fi încărcate direct de pe telefon.
+          - article [ref=e283]:
+            - generic [ref=e284]: Informație asociată cursei
+            - generic [ref=e285]: Actualizările și documentele rămân înregistrate lângă transportul corespunzător.
+      - generic [ref=e286]:
+        - generic [ref=e287]:
+          - generic [ref=e288]: ✓
+          - text: Am ajuns, încărcat, plecat, livrat
+        - generic [ref=e289]:
+          - generic [ref=e290]: ✓
+          - text: CMR transmis direct din teren
+        - generic [ref=e291]:
+          - generic [ref=e292]: ✓
+          - text: Status disponibil în Control Center
+    - generic [ref=e294]:
+      - generic [ref=e295]: 4. DOCUMENTE ȘI CMR
+      - heading [level=2] [ref=e296]:
+        - text: Management digital al
+        - emphasis [ref=e297]: documentelor.
+      - paragraph [ref=e298]: Documentele rămân legate de transportul corespunzător.
+      - generic [ref=e299]:
+        - article [ref=e300]:
+          - heading "CMR" [level=3] [ref=e301]
+          - generic [ref=e304]: VERIFICAT
+        - generic [ref=e305]: →
+        - generic [ref=e306]:
+          - generic [ref=e307]: ⌁
+          - generic [ref=e308]: Identificare
+          - generic [ref=e309]: CMR scanat
+        - generic [ref=e310]: →
+        - generic [ref=e311]:
+          - generic [ref=e312]: ✓
+          - generic [ref=e313]: Asociere cursă
+          - generic [ref=e314]: "cursa #1842"
+      - paragraph [ref=e315]:
+        - strong [ref=e316]: Fotografie CMR → Identificare → Asociere cursă → Arhivare → Facturare
+      - generic [ref=e317]:
+        - generic [ref=e318]:
+          - generic [ref=e319]: ✓
+          - text: CMR ușor de găsit
+        - generic [ref=e320]:
+          - generic [ref=e321]: ✓
+          - text: Mai puține documente pierdute
+        - generic [ref=e322]:
+          - generic [ref=e323]: ✓
+          - text: Flux mai rapid către facturare
+    - generic [ref=e325]:
+      - generic [ref=e326]: 5. COSTURI + PROFIT
+      - heading [level=2] [ref=e327]:
+        - text: Analiza costurilor și
+        - emphasis [ref=e328]: profitabilității.
+      - paragraph [ref=e329]: Venit, cost și profit pentru fiecare cursă.
+      - generic [ref=e330]:
+        - article [ref=e331]:
+          - text: "CURSA #1842"
+          - heading "Craiova → București" [level=3] [ref=e332]
+          - generic [ref=e333]:
+            - generic [ref=e334]:
+              - text: VENIT
+              - strong [ref=e335]: 1.250 lei
+            - generic [ref=e336]: −
+            - generic [ref=e337]:
+              - text: COSTURI
+              - strong [ref=e338]: 920 lei
+            - generic [ref=e339]: =
+            - generic [ref=e340]:
+              - text: PROFIT
+              - strong [ref=e341]: +330 lei
+          - generic [ref=e342]: DATE DEMONSTRATIVE
+        - generic [ref=e343]:
+          - heading "Analiză pe" [level=3] [ref=e344]
+          - paragraph [ref=e345]: Cursă, camion, rută, client și sursa comenzii — date demonstrative.
+          - img "Cargus" [ref=e347]
+          - img "Auto Total" [ref=e350]
+          - generic [ref=e352]: Comenzi directe
+      - generic [ref=e355]:
+        - generic [ref=e356]:
+          - generic [ref=e357]: ✓
+          - text: Cursă, camion și rută
+        - generic [ref=e358]:
+          - generic [ref=e359]: ✓
+          - text: Client și sursa comenzii
+        - generic [ref=e360]:
+          - generic [ref=e361]: ✓
+          - text: Cargus, Auto Total și comenzi directe
+    - generic [ref=e363]:
+      - generic [ref=e364]: 6. PORTAL CLIENT
+      - heading [level=2] [ref=e365]:
+        - text: Portal digital pentru
+        - emphasis [ref=e366]: clienți.
+      - paragraph [ref=e367]: Acces la statusul transportului, ETA și documentele aferente.
+      - generic [ref=e369]:
+        - generic [ref=e370]: portal client · concept demonstrativ
+        - generic [ref=e375]:
+          - heading "SAMIR ONE LOGISTIC" [level=3] [ref=e376]
+          - generic [ref=e377]:
+            - generic [ref=e378]: Craiova
+            - generic [ref=e379]: →
+            - generic [ref=e382]: București
+          - generic [ref=e383]:
+            - generic [ref=e384]:
+              - generic [ref=e385]: STATUS
+              - generic [ref=e386]: ÎN TRANZIT
+            - generic [ref=e387]:
+              - generic [ref=e388]: ETA
+              - generic [ref=e389]: 18:40
+            - generic [ref=e390]:
+              - generic [ref=e391]: DOCUMENTE
+              - generic [ref=e392]: CMR + POD
+      - generic [ref=e393]:
+        - generic [ref=e394]:
+          - generic [ref=e395]: ✓
+          - text: Status, ETA și rută
+        - generic [ref=e396]:
+          - generic [ref=e397]: ✓
+          - text: CMR, POD și factură
+        - generic [ref=e398]:
+          - generic [ref=e399]: ✓
+          - text: Mai multă transparență și mai puține solicitări
+    - generic [ref=e401]:
+      - generic [ref=e402]: 7. AUTOMATIZĂRI
+      - heading [level=2] [ref=e403]:
+        - text: Automatizarea proceselor
+        - emphasis [ref=e404]: repetitive.
+      - paragraph [ref=e405]: Reguli simple pentru pașii care apar frecvent în operațiuni.
+      - generic [ref=e406]:
+        - article [ref=e407]:
+          - generic [ref=e408]: "01"
+          - heading "Comandă nouă" [level=3] [ref=e409]
+          - paragraph [ref=e410]: Cursă pregătită.
+        - article [ref=e411]:
+          - generic [ref=e412]: "02"
+          - heading "CMR încărcat" [level=3] [ref=e413]
+          - paragraph [ref=e414]: Asociat cursei.
+        - article [ref=e415]:
+          - generic [ref=e416]: "03"
+          - heading "Document lipsă" [level=3] [ref=e417]
+          - paragraph [ref=e418]: Alertă.
+        - article [ref=e419]:
+          - generic [ref=e420]: "04"
+          - heading "Cursă finalizată" [level=3] [ref=e421]
+          - paragraph [ref=e422]: Pregătită pentru facturare.
+      - paragraph [ref=e423]:
+        - strong [ref=e424]: "Întârziere:"
+        - text: notificare către persoana potrivită.
+    - generic [ref=e426]:
+      - generic [ref=e427]:
+        - generic [ref=e428]: VIZIUNEA DE ANSAMBLU
+        - heading [level=2] [ref=e429]:
+          - text: Ecosistem digital pentru
+          - emphasis [ref=e430]: Samir One Logistic.
+        - paragraph [ref=e431]: O platformă custom, construită în jurul proceselor reale ale companiei și implementată treptat, în funcție de priorități.
+        - link "Sesiune de descoperire digitală →" [ref=e432] [cursor=pointer]:
+          - /url: "#acasa"
+          - text: Sesiune de descoperire digitală
+          - generic [ref=e433]: →
+      - generic [ref=e434]:
+        - generic [ref=e435]:
+          - generic [ref=e436]: SAMIR
+          - generic [ref=e437]: CONTROL CENTER
+        - generic [ref=e438]: Comenzi
+        - generic [ref=e439]: Curse
+        - generic [ref=e440]: Șoferi
+        - generic [ref=e441]: Documente
+        - generic [ref=e442]: Costuri
+        - generic [ref=e443]: Profitabilitate
+        - generic [ref=e444]: Portal client
+        - generic [ref=e445]: Automatizări
