@@ -1,0 +1,356 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation "Navigare principală" [ref=e3]:
+      - link "Samir One Logistic - început" [ref=e4] [cursor=pointer]:
+        - /url: "#acasa"
+        - generic [ref=e5]: S
+        - generic [ref=e6]:
+          - text: SAMIR ONE
+          - generic [ref=e7]: LOGISTIC
+      - generic [ref=e8]:
+        - link "Idei" [ref=e9] [cursor=pointer]:
+          - /url: "#idei"
+        - link "Comenzi" [ref=e10] [cursor=pointer]:
+          - /url: "#sistem"
+        - link "Curse" [ref=e11] [cursor=pointer]:
+          - /url: "#control"
+        - link "Profit" [ref=e12] [cursor=pointer]:
+          - /url: "#profit"
+        - link "Client" [ref=e13] [cursor=pointer]:
+          - /url: "#client"
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - img "Camion modern pe traseu digital" [ref=e16]
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: O PROPUNERE PENTRU SAMIR ONE LOGISTIC
+          - heading [level=1] [ref=e20]:
+            - text: Câteva ideiprin care aș putea
+            - strong [ref=e21]: ajuta Samir.
+          - paragraph [ref=e22]: Software făcut exact în jurul modului în care lucrați.
+          - generic [ref=e23]:
+            - generic [ref=e24]: COMENZI
+            - generic [ref=e25]: CURSE
+            - generic [ref=e26]: ȘOFERI
+            - generic [ref=e27]: DOCUMENTE
+            - generic [ref=e28]: COSTURI
+            - generic [ref=e29]: PROFIT
+        - generic [ref=e30]: S
+      - generic [ref=e35]: Derulează pentru concept
+    - generic [ref=e37]:
+      - generic [ref=e38]: CUM AȘ PUTEA AJUTA
+      - heading [level=2] [ref=e39]:
+        - text: Câteva idei pentru
+        - emphasis [ref=e40]: Samir One Logistic.
+      - paragraph [ref=e41]: "O propunere construită ca punct de plecare: ce aș putea face și cum ar putea funcționa în practică."
+      - generic [ref=e42]:
+        - article [ref=e43]:
+          - generic [ref=e44]: "01"
+          - heading "Să adun comenzile într-un singur loc" [level=3] [ref=e45]
+          - paragraph [ref=e46]: Cargus, Auto Total și comenzile directe ar putea ajunge într-un singur panou.
+        - article [ref=e47]:
+          - generic [ref=e48]: "02"
+          - heading "Să vezi toate cursele într-un singur ecran" [level=3] [ref=e49]
+          - paragraph [ref=e50]: Camion, șofer, rută, status, ETA și documente, în aceeași imagine.
+        - article [ref=e51]:
+          - generic [ref=e52]: "03"
+          - heading "Să simplific partea de CMR și documente" [level=3] [ref=e53]
+          - paragraph [ref=e54]: Șoferul ar putea fotografia documentul, iar acesta poate fi asociat cursei.
+        - article [ref=e55]:
+          - generic [ref=e56]: "04"
+          - heading "Să vezi cât produce fiecare cursă" [level=3] [ref=e57]
+          - paragraph [ref=e58]: Venit, cost și profit pe cursă, rută, camion sau client.
+      - generic [ref=e59]:
+        - generic [ref=e60]: →
+        - generic [ref=e61]: Acestea sunt idei de pornire; sistemul s-ar putea construi treptat, exact în jurul modului în care lucrați.
+    - generic [ref=e63]:
+      - generic [ref=e64]: 1. COMENZI
+      - heading [level=2] [ref=e65]:
+        - text: Toate comenzile într-un
+        - emphasis [ref=e66]: singur loc.
+      - paragraph [ref=e67]: Aș putea conecta comenzile din Cargus, Auto Total și alte surse într-un singur sistem.
+      - generic [ref=e68]:
+        - img "Cargus" [ref=e70]
+        - img "Auto Total" [ref=e72]
+        - generic [ref=e74]:
+          - generic [ref=e75]: +
+          - text: Comenzi directe
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]: SAMIR CONTROL CENTER
+          - generic [ref=e83]: ● CONCEPT
+        - generic [ref=e84]:
+          - generic [ref=e85]:
+            - text: "COMANDĂ #SO-1842"
+            - generic [ref=e86]: Craiova → București
+          - generic [ref=e87]:
+            - text: ȘOFER
+            - generic [ref=e88]: Ion Popescu
+          - generic [ref=e89]:
+            - text: STATUS
+            - generic [ref=e90]: În tranzit
+          - generic [ref=e91]:
+            - text: CMR
+            - generic [ref=e92]: Așteptat
+        - generic [ref=e93]:
+          - generic [ref=e94]: Comenzi
+          - generic [ref=e95]: Curse
+          - generic [ref=e96]: Tracking
+          - generic [ref=e97]: Documente
+          - generic [ref=e98]: Costuri
+      - paragraph [ref=e99]:
+        - strong [ref=e100]: "În funcție de sistemele disponibile:"
+        - text: preluarea comenzilor ar putea fi automată sau semi-automată.
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: ✓
+          - text: Mai rapid de urmărit
+        - generic [ref=e104]:
+          - generic [ref=e105]: ✓
+          - text: Mai puțină introducere manuală
+        - generic [ref=e106]:
+          - generic [ref=e107]: ✓
+          - text: Toate comenzile la un loc
+    - generic [ref=e109]:
+      - generic [ref=e110]: CUM AR PUTEA FUNCȚIONA
+      - heading [level=2] [ref=e111]:
+        - text: O cursă.
+        - emphasis [ref=e112]: Un flux clar.
+      - paragraph [ref=e113]: Fiecare comandă ar putea urma același traseu, de la preluare până la facturare.
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e119]: COMANDĂ
+          - generic [ref=e120]: cursă nouă
+        - generic [ref=e121]:
+          - generic [ref=e125]: ALOCĂ
+          - generic [ref=e126]: șofer + camion
+        - generic [ref=e127]:
+          - generic [ref=e131]: URMĂREȘTE
+          - generic [ref=e132]: status live
+        - generic [ref=e133]:
+          - generic [ref=e137]: CMR
+          - generic [ref=e138]: document asociat
+        - generic [ref=e139]:
+          - generic [ref=e143]: FACTUREAZĂ
+          - generic [ref=e144]: totul pregătit
+      - generic [ref=e145]:
+        - generic [ref=e146]: "Cursa #SO-1842 — Craiova → București"
+        - generic [ref=e147]: Un flux pregătit pentru facturare.
+      - generic [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e150]: ✓
+          - text: Comandă, cursă și documente conectate
+        - generic [ref=e151]:
+          - generic [ref=e152]: ✓
+          - text: Fiecare pas are o urmă clară
+        - generic [ref=e153]:
+          - generic [ref=e154]: ✓
+          - text: Informația rămâne pregătită pentru facturare
+    - generic [ref=e156]:
+      - generic [ref=e157]: 2. CONTROL CENTER
+      - heading [level=2] [ref=e158]:
+        - text: Un singur ecran pentru
+        - emphasis [ref=e159]: toate cursele.
+      - paragraph [ref=e160]: Aș putea construi un dashboard în care să vezi fiecare cursă și ce se întâmplă cu ea.
+      - generic [ref=e161]:
+        - generic [ref=e162]:
+          - img "Hartă stilizată a României cu rute active" [ref=e163]:
+            - generic [ref=e170]: Craiova
+            - generic [ref=e172]: București
+            - generic [ref=e174]: Cluj
+            - generic [ref=e176]: Timișoara
+            - generic [ref=e178]: Iași
+          - generic [ref=e199]:
+            - text: "CURSA #SO-1842"
+            - generic [ref=e200]: Craiova → București
+            - text: OT-XX-XXX • ETA 16:40
+        - complementary [ref=e201]:
+          - heading "12 CURSE ACTIVE" [level=3] [ref=e202]
+          - generic [ref=e203]:
+            - generic [ref=e205]: "7"
+            - generic [ref=e206]: În tranzit
+          - generic [ref=e207]:
+            - generic [ref=e209]: "3"
+            - generic [ref=e210]: La încărcare
+          - generic [ref=e211]:
+            - generic [ref=e213]: "2"
+            - generic [ref=e214]: La descărcare
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - generic [ref=e217]: ✓
+          - text: Vezi rapid unde este fiecare cursă
+        - generic [ref=e218]:
+          - generic [ref=e219]: ✓
+          - text: Vezi ce este în tranzit, încărcare sau descărcare
+        - generic [ref=e220]:
+          - generic [ref=e221]: ✓
+          - text: Vezi dacă lipsesc documente
+    - generic [ref=e223]:
+      - generic [ref=e224]: 3. APLICAȚIE PENTRU ȘOFER
+      - heading [level=2] [ref=e225]:
+        - text: Șoferul actualizează.
+        - emphasis [ref=e226]: Tu vezi imediat.
+      - paragraph [ref=e227]: Șoferul ar putea actualiza cursa direct dintr-o interfață simplă, pe telefon.
+      - generic [ref=e228]:
+        - generic [ref=e229]:
+          - generic [ref=e230]:
+            - generic [ref=e231]: "CURSA #1842"
+            - generic [ref=e232]: Craiova → București
+          - generic [ref=e233]: AM AJUNS
+          - generic [ref=e235]: AM ÎNCĂRCAT
+          - generic [ref=e237]: AM PLECAT
+          - generic [ref=e239]: AM LIVRAT
+          - button "FOTOGRAFIAZĂ CMR" [ref=e241] [cursor=pointer]
+        - generic [ref=e242]:
+          - article [ref=e243]:
+            - heading "CMR" [level=3] [ref=e244]
+            - generic [ref=e247]: VERIFICAT
+          - generic [ref=e248]: →
+          - generic [ref=e249]:
+            - generic [ref=e250]: ⌁
+            - generic [ref=e251]: Identificat
+            - generic [ref=e252]: CMR scanat
+          - generic [ref=e253]: →
+          - generic [ref=e254]:
+            - generic [ref=e255]: ✓
+            - generic [ref=e256]: CMR asociat
+            - generic [ref=e257]: "cursei #1842"
+      - paragraph [ref=e258]:
+        - strong [ref=e259]: "4. CMR-ul direct în cursa corectă:"
+        - text: "aș putea automatiza o mare parte din traseul documentului după ce șoferul îl trimite: fotografie → identificat → cursa #1842 → arhivat → facturare."
+      - generic [ref=e260]:
+        - generic [ref=e261]:
+          - generic [ref=e262]: ✓
+          - text: Actualizarea poate ajunge direct în Control Center
+        - generic [ref=e263]:
+          - generic [ref=e264]: ✓
+          - text: Documentul se găsește imediat
+        - generic [ref=e265]:
+          - generic [ref=e266]: ✓
+          - text: Informația rămâne lângă cursa corectă
+    - generic [ref=e268]:
+      - generic [ref=e269]: 5. COSTURI + PROFIT
+      - heading [level=2] [ref=e270]:
+        - text: Să vezi profitul real al fiecărei
+        - emphasis [ref=e271]: curse.
+      - paragraph [ref=e272]: Dacă aș avea datele necesare, aș putea calcula automat cât rămâne din fiecare cursă.
+      - generic [ref=e273]:
+        - article [ref=e274]:
+          - text: "CURSA #1842"
+          - heading "Craiova → București" [level=3] [ref=e275]
+          - generic [ref=e276]:
+            - generic [ref=e277]:
+              - text: VENIT
+              - strong [ref=e278]: 1.250 lei
+            - generic [ref=e279]: −
+            - generic [ref=e280]:
+              - text: COSTURI
+              - strong [ref=e281]: 920 lei
+            - generic [ref=e282]: =
+            - generic [ref=e283]:
+              - text: PROFIT
+              - strong [ref=e284]: +330 lei
+          - generic [ref=e285]: DATE DEMONSTRATIVE
+        - generic [ref=e286]:
+          - heading "Apoi ai putea compara" [level=3] [ref=e287]
+          - paragraph [ref=e288]: Camion cu camion, rută cu rută și sursa comenzii — date demonstrative.
+          - img "Cargus" [ref=e290]
+          - img "Auto Total" [ref=e293]
+          - generic [ref=e295]: Comenzi directe
+      - generic [ref=e298]:
+        - generic [ref=e299]:
+          - generic [ref=e300]: ✓
+          - text: Camion cu camion
+        - generic [ref=e301]:
+          - generic [ref=e302]: ✓
+          - text: Rută cu rută
+        - generic [ref=e303]:
+          - generic [ref=e304]: ✓
+          - text: Cargus, Auto Total și comenzi directe
+    - generic [ref=e306]:
+      - generic [ref=e307]: 6. PORTAL CLIENT
+      - heading [level=2] [ref=e308]:
+        - text: Un portal pentru
+        - emphasis [ref=e309]: clienți.
+      - paragraph [ref=e310]: Aș putea crea și o zonă în care clienții să-și urmărească singuri transporturile.
+      - generic [ref=e312]:
+        - generic [ref=e313]: portal client · concept demonstrativ
+        - generic [ref=e318]:
+          - heading "SAMIR ONE LOGISTIC" [level=3] [ref=e319]
+          - generic [ref=e320]:
+            - generic [ref=e321]: Craiova
+            - generic [ref=e322]: →
+            - generic [ref=e325]: București
+          - generic [ref=e326]:
+            - generic [ref=e327]:
+              - generic [ref=e328]: STATUS
+              - generic [ref=e329]: ÎN TRANZIT
+            - generic [ref=e330]:
+              - generic [ref=e331]: ETA
+              - generic [ref=e332]: 18:40
+            - generic [ref=e333]:
+              - generic [ref=e334]: DOCUMENTE
+              - generic [ref=e335]: CMR + POD
+      - generic [ref=e336]:
+        - generic [ref=e337]:
+          - generic [ref=e338]: ✓
+          - text: Status și ETA
+        - generic [ref=e339]:
+          - generic [ref=e340]: ✓
+          - text: CMR, POD și factură
+        - generic [ref=e341]:
+          - generic [ref=e342]: ✓
+          - text: Mai multă transparență pentru client
+    - generic [ref=e344]:
+      - generic [ref=e345]: 7. AUTOMATIZĂRI
+      - heading [level=2] [ref=e346]:
+        - text: Lucrurile repetitive ar putea fi făcute
+        - emphasis [ref=e347]: automat.
+      - paragraph [ref=e348]: Ideea este ca pașii repetați să nu trebuiască făcuți de fiecare dată manual.
+      - generic [ref=e349]:
+        - article [ref=e350]:
+          - generic [ref=e351]: "01"
+          - heading "Comandă primită" [level=3] [ref=e352]
+          - paragraph [ref=e353]: Cursa ar putea fi pregătită automat.
+        - article [ref=e354]:
+          - generic [ref=e355]: "02"
+          - heading "CMR încărcat" [level=3] [ref=e356]
+          - paragraph [ref=e357]: Documentul ar putea fi asociat automat cursei.
+        - article [ref=e358]:
+          - generic [ref=e359]: "03"
+          - heading "CMR lipsă" [level=3] [ref=e360]
+          - paragraph [ref=e361]: Sistemul ar putea semnala cursa care are nevoie de atenție.
+        - article [ref=e362]:
+          - generic [ref=e363]: "04"
+          - heading "Cursă întârziată" [level=3] [ref=e364]
+          - paragraph [ref=e365]: O alertă ar putea ajunge la persoana potrivită.
+      - paragraph [ref=e366]:
+        - strong [ref=e367]: "Exemplu:"
+        - text: cursă finalizată + documente în regulă → pregătită pentru facturare.
+    - generic [ref=e369]:
+      - generic [ref=e370]:
+        - generic [ref=e371]: PUNCTUL DE PLECARE
+        - heading [level=2] [ref=e372]:
+          - text: Unde cred că aș putea aduce cel mai mult
+          - emphasis [ref=e373]: ajutor.
+        - paragraph [ref=e374]: Acestea sunt doar câteva idei. Sistemul s-ar putea construi treptat, exact după modul în care lucrați deja.
+        - link "Sesiune de descoperire digitală →" [ref=e375] [cursor=pointer]:
+          - /url: "#acasa"
+          - text: Sesiune de descoperire digitală
+          - generic [ref=e376]: →
+      - generic [ref=e377]:
+        - article [ref=e378]:
+          - generic [ref=e379]: Comenzi centralizate
+          - generic [ref=e380]: Cargus, Auto Total și comenzile directe, într-un singur loc.
+        - article [ref=e381]:
+          - generic [ref=e382]: Control asupra curselor
+          - generic [ref=e383]: Totul vizibil într-un dashboard.
+        - article [ref=e384]:
+          - generic [ref=e385]: Șofer + CMR digital
+          - generic [ref=e386]: Informația ar putea veni direct din teren.
+        - article [ref=e387]:
+          - generic [ref=e388]: Cost și profit per cursă
+          - generic [ref=e389]: Vezi ce merită și ce poate fi optimizat.
+        - article [ref=e390]:
+          - generic [ref=e391]: Automatizări
+          - generic [ref=e392]: Mai puțini pași care trebuie făcuți manual.
